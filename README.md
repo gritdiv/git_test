@@ -4,3 +4,4 @@ Hello Odin!
 How are you?
 I'm fine.
 What time is it, Odin?
+It's 9:30am.
